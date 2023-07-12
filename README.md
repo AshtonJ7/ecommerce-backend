@@ -1,5 +1,6 @@
-# ecommerce-backend
-This is the back end for an e-commerce site. Express.js API was used and configured to use Sequelize to interact with a MySQL database.
+# Ecommerce-Backend
+
+This is the back end for an e-commerce site. Express.js API was used and configured to use Sequelize to interact with a MySQL database. This application isn't be deployed and run on use the local server. 
 
 
 ## User Story
@@ -21,3 +22,42 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
+
+
+## Tech Stack
+
+**Server:** Node, Express, MySQL database, MySQL2, Sequelize, dotenv.
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/AshtonJ7/ecommerce-backend.git
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Set up My SQL
+
+```MYSQL
+- mysql -u root -p
+- Enter mySQL password
+- source db/schema.sql
+- QUIT
+```
+
+Database Seeding 
+
+```Seed
+node seeds/index.js
+```
+
+Start the server
+
+```bash
+  npm run start
+```
