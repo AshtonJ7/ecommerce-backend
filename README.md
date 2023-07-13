@@ -80,6 +80,6 @@ Post, Put and deleted tested for Tags:
 
 https://drive.google.com/file/d/1S9SbM_VUxQvO0RJch-t6oVmt3VmVKMmF/view?usp=sharing
 
-## screenshot
+## Screenshot
 
 ![image](https://github.com/AshtonJ7/ecommerce-backend/assets/62944042/1fc7ea28-cd30-434e-8a69-662b0bd7f1de)
