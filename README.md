@@ -76,7 +76,7 @@ Post and Put and delete tested for Products:
 
 https://drive.google.com/file/d/1M7qxdN3YmKxp1kLTXKJgrfPUmCaZ7X-z/view?usp=sharing
 
-Post, Put and deleted tested for Tags:
+Post, Put and delete tested for Tags:
 
 https://drive.google.com/file/d/1S9SbM_VUxQvO0RJch-t6oVmt3VmVKMmF/view?usp=sharing
 
